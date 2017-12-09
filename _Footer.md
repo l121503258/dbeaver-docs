@@ -1,1 +1,0 @@
-DBeaver - Universal Database Manager
